@@ -1,0 +1,7 @@
+[package]
+name = "spiTest"
+version = "0.1.0"
+authors = ["thilo <t.krumbholz@posteo.de>"]
+
+[dependencies]
+spidev = "0.3.0"
